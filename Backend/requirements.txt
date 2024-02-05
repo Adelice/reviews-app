@@ -1,5 +1,0 @@
-Flask
-Flask-JWT-Extended
-Flask-SQLAlchemy
-Flask-Bcrypt
-Flask-cors
